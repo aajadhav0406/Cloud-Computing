@@ -1,5 +1,5 @@
 #!bin/bash
-
+echo "HELLO $USER, THIS IS SIMPLE CODE"
 flag="a"
 if [ "$flag" ];
 then 
